@@ -1,0 +1,235 @@
+[
+    {
+        "id": "abrigo-01",
+        "titulo": "Xiami Redmi13",
+        "imagen": "./img/abrigos/Xiaomi Redmi13.png",
+        "categoria": {
+            "nombre": "Celulares Tablets & Accesorrios",
+            "id": "abrigos"
+        },
+        "precio": 12000,
+        "descripcion": "Xiaomi Redmi 13: Un smartphone potente y asequible con pantalla Full HD+, batería de larga duración de 5000 mAh, y cámara triple de alta resolución para fotos detalladas. Ideal para quienes buscan rendimiento y estilo sin comprometer el presupuesto."
+    },
+    {
+        "id": "abrigo-02",
+        "titulo": "SamsungS22",
+        "imagen": "./img/abrigos/SamsungS22-128GB.png",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 38000,
+        "descripcion": "Samsung Galaxy S22: Rendimiento superior con procesador de última generación, pantalla AMOLED vibrante de 120 Hz, y cámara avanzada de 50 MP que captura imágenes nítidas en cualquier luz. Compacto y elegante, ideal para fotografía y entretenimiento en alta calidad."
+    },
+    {
+        "id": "abrigo-03",
+        "titulo": "Cargadores de Iphone12",
+        "imagen": "./img/abrigos/Cargadores Iphone12.png",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 1500,
+        "descripcion":"Cargador de iPhone 12: Carga rápida y eficiente con tecnología de 20W, optimizada para iPhone 12 y modelos compatibles. Compacto y fácil de llevar, ideal para cargar en casa o en movimiento."
+    },
+    {
+        "id": "abrigo-04",
+        "titulo": "Cargadores Usb",
+        "imagen": "./img/abrigos/Cargadores usb.png",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 800,
+        "descripcion":"Cargadores USB:Universales y compatibles con múltiples dispositivos, diseño compacto, carga rápida de hasta 18W y protección contra sobrecarga."
+    },
+    {
+        "id": "abrigo-05",
+        "titulo": "Cover samsung 12 de todos los colores",
+        "imagen": "./img/abrigos/COVER SAMSUNG A12 de todos los colores.png",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 1200,
+        "descripcion":"Cover Samsung 12: Disponible en varios colores, diseño ajustado, material antideslizante, protección contra caídas"
+    },
+    {
+        "id": "abrigo-06",
+        "titulo": "Tablets samsung galaxy",
+        "imagen": "./img/abrigos/Tablets samsung galaxy.png",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 20000,
+        "descripcion":"Tablets Samsung Galaxy: Dispositivos versátiles con pantallas AMOLED brillantes, procesadores potentes y capacidades de multitarea, ideales para entretenimiento y productividad."
+    },
+    {
+        "id": "abrigo-07",
+        "titulo": "Tablets TCL",
+        "imagen": "./img/abrigos/Tablets TCL.png",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 12000,
+        "descripcion":"Tablets TCL: Dispositivos asequibles con pantallas nítidas, rendimiento fluido y características útiles, perfectos para entretenimiento y uso diario."
+    },
+    {
+        "id": "abrigo-08",
+        "titulo": "Funda protectora contra el agua",
+        "imagen": "./img/abrigos/Funda impermiables contra el agua.png",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 1500,
+        "descripcion":"Funda protectora contra el agua: Diseño resistente al agua, ideal para proteger dispositivos electrónicos en entornos húmedos o durante actividades al aire libre, manteniendo la funcionalidad y la seguridad."
+    },
+    
+    {
+        "id": "camiseta-01",
+        "titulo": "Adaptadores wifi",
+        "imagen": "./img/camisetas/adaptador-wifi-usn-treker-300x300.png",
+        "categoria": {
+            "nombre": "Adaptadores, Cables, Routers & Switch ",
+            "id": "camisetas"
+        },
+        "precio": 500,
+        "descripcion":"Adaptadores WiFi: Dispositivos que permiten conectar ordenadores o dispositivos a redes inalámbricas, mejorando la conectividad y la velocidad de internet, ideales para ubicaciones sin acceso a cableado."
+    },
+    {
+        "id": "camiseta-02",
+        "titulo": "Adaptador 8 en 1",
+        "imagen": "./img/camisetas/Adaptador 8 en 1 .png",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 25000,
+        "descripcion":"Adaptador 8 en 1: Versátil dispositivo que combina múltiples puertos como USB, HDMI, y lectores de tarjetas en una sola unidad, permitiendo conectar varios dispositivos simultáneamente y ampliando la funcionalidad de laptops y tablets."
+    },
+    {
+        "id": "camiseta-03",
+        "titulo": "Cable VGA",
+        "imagen": "./img/camisetas/Cablevga.png",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 300,
+        "descripcion":"Cable VGA: Cable utilizado para transmitir señales de video analógicas entre computadoras y monitores, ideal para conectar dispositivos que requieren una conexión visual de alta calidad."
+    },
+    {
+        "id": "camiseta-04",
+        "titulo": "Cables HDMI",
+        "imagen": "./img/camisetas/Cables HDMI.png",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 500,
+        "descripcion":"Cables HDMI: Cables diseñados para transmitir audio y video de alta definición entre dispositivos como televisores, consolas de videojuegos y computadoras, garantizando una conexión rápida y de alta calidad."
+    },
+    {
+        "id": "camiseta-05",
+        "titulo": "Controles y switch",
+        "imagen": "./img/camisetas/Controles y switch.png",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 2500,
+        "descripcion":"Controles y Switch Nintendo: Dispositivos de juego que permiten la interacción con la consola Nintendo Switch, ofreciendo controles precisos y ergonómicos para una experiencia de juego fluida y cómoda, además de compatibilidad con diversos títulos."
+    },
+    {
+        "id": "camiseta-06",
+        "titulo": "Nitendo switch",
+        "imagen": "./img/camisetas/nintendo-switch.png",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 20000,
+        "descripcion":"Nintendo Switch: Consola de videojuegos híbrida que combina el juego en casa y portátil, ofreciendo una amplia biblioteca de juegos, controles versátiles y la capacidad de jugar con amigos tanto en línea como localmente."
+    },
+    {
+        "id": "camiseta-07",
+        "titulo": "Router Philippines",
+        "imagen": "./img/camisetas/Router Philippines.png",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 2000,
+        "descripcion":"Router Philippines: Dispositivo de red que proporciona acceso a Internet, permitiendo la conexión de múltiples dispositivos de forma inalámbrica, ideal para hogares y oficinas en Filipinas, ofreciendo velocidad y estabilidad en la conexión"
+    },
+    {
+        "id": "camiseta-08",
+        "titulo": "Router v4",
+        "imagen": "./img/camisetas/Router V4.png",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 2500,
+        "descripcion":"Router V4: Dispositivo de red que ofrece conexiones de alta velocidad y características avanzadas de seguridad, ideal para el hogar o pequeñas oficinas, permitiendo la gestión eficiente del tráfico de datos y la conexión de varios dispositivos simultáneamente."
+    },
+    {
+        "id": "pantalon-01",
+        "titulo": "Monitor acer gamer",
+        "imagen": "./img/pantalones/monitor-para-portatil-acer-nitro.png",
+        "categoria": {
+            "nombre": "Telefono, Monitores, Tarjeta de red y video ",
+            "id": "pantalones"
+        },
+        "precio": 10000,
+        "descripcion":"Monitor Acer: Pantalla de alta definición con tecnología de visualización avanzada, ideal para gaming y trabajo profesional, ofreciendo colores vibrantes y tiempos de respuesta rápidos para una experiencia visual fluida."
+    },
+    {
+        "id": "pantalon-02",
+        "titulo": "Monitores para computadoras",
+        "imagen": "./img/pantalones/nuevo-monitor-4.png",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 7000,
+        "descripcion":"Monitores para computadoras: Pantallas disponibles en varias resoluciones y tamaños, ideales para tareas de oficina, diseño gráfico o gaming, ofreciendo opciones de panel IPS o TN para mejorar la calidad de imagen y los ángulos de visión."
+    },
+    {
+        "id": "pantalon-03",
+        "titulo": "Tarjeta de redes para laptop",
+        "imagen": "./img/pantalones/Tarjeta de red.png",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 1000,
+        "descripcion":"Tarjeta de redes para laptop: Dispositivo que permite la conexión a redes Wi-Fi o cableadas, mejorando la velocidad y estabilidad de la conexión a internet, con soporte para estándares como Wi-Fi 5 o Wi-Fi 6."
+    },
+    {
+        "id": "pantalon-04",
+        "titulo": "Tarjeta de  video AMD",
+        "imagen": "./img/pantalones/Tarjeta de video AMD.png",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 12000,
+        "descripcion":"Tarjeta de video AMD: Componente esencial para gamers y creadores de contenido, ofrece un alto rendimiento gráfico, soporta tecnologías como Ray Tracing y proporciona capacidades de juego en resoluciones 1080p, 1440p y 4K."
+    },
+    {
+        "id": "pantalon-05",
+        "titulo": "Telefonos para el hogar",
+        "imagen": "./img/pantalones/Telefono para hogar.png",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 1500,
+        "descripcion":"Teléfonos para el hogar: Dispositivos fijos ideales para comunicación familiar, ofrecen funciones como altavoz, identificación de llamadas y facilidad de uso."
+
+    }
+]
